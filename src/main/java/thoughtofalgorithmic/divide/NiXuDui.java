@@ -28,6 +28,7 @@ public class NiXuDui {
     private void mergeSortCounting(int[] a,int begin,int end){
         num = 0;
         if(begin >= end){
+            System.out.println("dd");
             return;
         }
 
