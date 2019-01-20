@@ -2,77 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc1c0f63-15cd-455e-a435-287c8261356f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/graph/Graph.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/graph/Visiting$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/graph/Visiting$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/graph/Visiting.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/graph/VistitGraph.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/graph/exception/EmptyException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/graph/exception/FullException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/graph/exception/GraphException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/hashtable/HashConsistency$StorageNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/hashtable/HashConsistency.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/hashtable/HashTableWithLinked$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/hashtable/HashTableWithLinked.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/hashtable/LRUWithHashLiked$LRUNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/hashtable/LRUWithHashLiked.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/hashtable/LRUWithLinked$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/hashtable/LRUWithLinked.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/heap/Heap$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/heap/Heap$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/heap/Heap$Compartor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/heap/Heap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/heap/HeapOption$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/heap/HeapOption.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/heap/Median$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/heap/Median.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/heap/TopKey.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/heap/Utils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/linnerstructer/linkedlist/Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/linnerstructer/queue/ConcurrentQueue.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/linnerstructer/queue/CycleQueue.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/recursion/Hannoi.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/search/BinarySearch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/search/JumpList$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/search/JumpList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/search/SkipList$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/search/SkipList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/sort/BubboSort.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/sort/BuketSort.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/sort/CounterSort.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/sort/InsertSort.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/sort/Kth.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/sort/MergeSort.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/sort/QuickSort.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/sort/SelectionSort.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/stringpartten/BF.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/stringpartten/BM.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/stringpartten/KMP.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/stringpartten/RK.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/stringpartten/TrieTree$TrieNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/stringpartten/TrieTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/stringpartten/exception/LengthNoEqualException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/thoughtofalgorithmic/ThoughtOfAlgorithmic.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/thoughtofalgorithmic/divide/NiXuDui.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/thoughtofalgorithmic/greedy/distributecandy/Candy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/thoughtofalgorithmic/greedy/distributecandy/Child.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/thoughtofalgorithmic/greedy/distributecandy/DistributeCandy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/thoughtofalgorithmic/greedy/haffcode/HaffElement.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/thoughtofalgorithmic/greedy/haffcode/HaffManCoder$HaffCodeerNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/thoughtofalgorithmic/greedy/haffcode/HaffManCoder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/tree/mirrorTree/ReverseTree$TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/tree/mirrorTree/ReverseTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/tree/searchTree/SearchTree$SearchTreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/tree/searchTree/SearchTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/tree/visittree/Arraystore.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/tree/visittree/HeightOfTree$TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/tree/visittree/HeightOfTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/tree/visittree/LevelVisit$LinkedNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/tree/visittree/LevelVisit$TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/tree/visittree/LevelVisit.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/tree/visittree/LinkedStore$TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/tree/visittree/LinkedStore.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlgorithmTest.iml" afterPath="$PROJECT_DIR$/AlgorithmTest.iml" />
     </list>
     <ignored path="AlgorithmTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -162,8 +93,8 @@
       <file leaf-file-name="NiXuDui.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/thoughtofalgorithmic/divide/NiXuDui.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+            <state relative-caret-position="319">
+              <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -253,10 +184,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1592" />
-    <option name="y" value="-244" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -283,7 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -305,18 +235,19 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="android.sdk.path" value="D:/AndroidStudioSDK" />
-    <property name="last_opened_file_path" value="K:/dtSp/sourceStudy/4.1.15/netty-netty-4.1.15.Final" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SearchEverywhereHistoryKey" value="ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Pri&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/PriorityQueue.java&#10;priorityQ&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RunManager" selected="Application.NiXuDui">
@@ -426,9 +357,6 @@
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
-    <configuration default="true" type="ApexTest" factoryName="Apex Test">
-      <method />
-    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -450,27 +378,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="BatchConfigurationType" factoryName="Batch">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
       <method />
     </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
@@ -671,19 +578,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="" />
-      <envMap />
-      <setting name="rowsRange" value="" />
-      <method />
-    </configuration>
     <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -749,35 +643,61 @@
       <option name="project" value="LOCAL" />
       <updated>1547702381772</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dd">
+      <created>1547702396339</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547702396339</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dd">
+      <created>1547964078960</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547964078960</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dd">
+      <created>1547964093645</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547964093645</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1592" y="-244" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22557841" sideWeight="0.49610677" order="4" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1881663" sideWeight="0.49610677" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23614073" sideWeight="0.5038932" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3337041" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3259177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34705228" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3463143" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3337041" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1185,8 +1105,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/thoughtofalgorithmic/divide/NiXuDui.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+        <state relative-caret-position="319">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -1237,7 +1157,17 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
